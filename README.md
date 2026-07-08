@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Arnav Mazumdar
-- 👀 I’m interested in Python Development, AI/ML applications
-- 🌱 I’m currently learning Deep NNs
-- ⚡ Fun fact: ...
+- Hi, I’m Arnav Mazumdar
+- I’m currently working as an AI/ML engineer
+
 
 <!---
 arnavm-codes/arnavm-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
