@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-mazumdar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavm-codes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forarnavm2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-forarnavm2004%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&labelColor=505050&color=D14836)](mailto:forarnavm2004@gmail.com)
 
 </div>
 
@@ -43,13 +43,14 @@ When I'm not training models, I'm usually exploring new tools in the ML ecosyste
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Vector%20DB-6E56CF?style=flat-square)
 
 **Tools & Platforms**
 
@@ -63,12 +64,7 @@ When I'm not training models, I'm usually exploring new tools in the ML ecosyste
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arnavm-codes&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavm-codes&layout=donut&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-
 <img src="https://streak-stats.demolab.com/?user=arnavm-codes&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=arnavm-codes&theme=radical&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
@@ -80,6 +76,6 @@ When I'm not training models, I'm usually exploring new tools in the ML ecosyste
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-mazumdar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavm-codes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forarnavm2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-forarnavm2004%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&labelColor=505050&color=D14836)](mailto:forarnavm2004@gmail.com)
 
 </div>
